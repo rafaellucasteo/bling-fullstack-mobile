@@ -1,5 +1,11 @@
 # Desenvolvedor Fullstack com foco em mobile
 
+O teste tem como objetivo obter uma base do seu conhecimento em algumas linguagens específicas. Não existe apenas uma solução para as questões, portanto procure aplicar suas próprias ideias e soluções. Você poderá consultar a internet como em qualquer ambiente real de desenvolvimento, mas procure evitar o Ctrl+C e Ctrl+V, pois poderemos questionar a solução das questões.
+
+Você poderá entregar o teste em uma das seguintes formas:
+- Arquivo compactado;
+- Link para o GitHub com as soluções.
+
 ## Javascript :blue_car:
 
 **1. Quantas vezes o caractere ocorre?**
