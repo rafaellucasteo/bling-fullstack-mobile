@@ -98,4 +98,5 @@ Os itens a seguir são opcionais que podem ser diferenciais no seu teste:
 **8. Dados do repositório do GitHub**
 
 Execute a mesma funcionalidade do exercício 6 em um app com React Native.
+
 (Esta questão é um opcional que pode ser diferencial no seu teste)***
