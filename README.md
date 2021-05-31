@@ -66,3 +66,6 @@ Exemplo:
 
 ![Peek 31-05-2021 10-36](https://user-images.githubusercontent.com/83364092/120201738-29ac2900-c1fc-11eb-9045-e0ff683d8360.gif)
 
+**6. Atualizando dados na tela**
+
+![Peek 31-05-2021 11-18](https://user-images.githubusercontent.com/83364092/120206824-0ab09580-c202-11eb-938e-895fb7aa8362.gif)
