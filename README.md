@@ -88,13 +88,14 @@ Replique o gerenciador de tarefas a seguir:
 
 Você pode usar o Bootstrap se preferir.
 
-Os itens a seguir são opcionais que podem serdiferenciais no seu teste:
+Os itens a seguir são opcionais que podem ser diferenciais no seu teste:
 - Adicionar e remover tarefas funcional;
 - Realizar um login funcional;
 - Procurar manter o visual o mais parecido possível.
 
-## React Native (diferencial) :rocket::rocket::rocket:
+## React Native :rocket::rocket::rocket:
 
 **8. Dados do repositório do GitHub**
 
 Execute a mesma funcionalidade do exercício 6 em um app com React Native.
+(Esta questão é um opcional que pode ser diferencial no seu teste)***
