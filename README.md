@@ -85,3 +85,7 @@ Replique o gerenciador de tarefas a seguir:
 - Procure tornar o app o mais funcional possível.
 
 ## React Native :rocket::rocket::rocket:
+
+**8. Dados do repositório do GitHub**
+
+Execute a mesma funcionalidade do exercício 6 em um app com React Native.
