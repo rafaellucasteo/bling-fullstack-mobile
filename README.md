@@ -1,6 +1,6 @@
 # Desenvolvedor Fullstack com foco em mobile
 
-## Javascript
+## Javascript :blue_car:
 
 **1. Quantas vezes o caractere ocorre?**
 
@@ -56,7 +56,7 @@ function calcularDiferenca(dataInicio, dataFinal) {
 calcularDiferenca(10/05/2021, 15/05/2021) // Esperado 5
 ```
 
-## React :airplane::airplane::airplane:
+## React :airplane:
 
 **5. Atualizando dados na tela**
 
