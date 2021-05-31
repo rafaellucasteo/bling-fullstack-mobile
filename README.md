@@ -29,7 +29,7 @@ mesclarArrays([-10, 22, 333, 42], [-11, 5, 22, 41, 42]) // [ -11, -10, 5, 22, 41
 ```
 
 
-**3. Conserte o caos entre estas strings**
+**3. Conserte o caos entre estas strings.**
 
 As strings de exemplo estão misturadas. Complete a função para que ela retorne as strings organizadas.
 
@@ -42,3 +42,8 @@ organizar('java', 'tpi%rcs') // Javascript
 organizar('c%ountry', 'edis') // Countryside
 organizar('down', 'nw%ot') // Downtown
 ```
+
+**4. Calcule o tempo em dias.**
+
+Escreva um algoritmo que calcule o tempo em dias a partir de uma data inicial e final
+recebidos no formato dd/mm/aaaa. Não deve usar funções de data e hora.
