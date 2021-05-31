@@ -52,14 +52,14 @@ organizar('down', 'nw%ot') // Downtown
 **4. Calcule o tempo em dias.**
 
 Escreva um algoritmo que calcule o tempo em dias a partir de uma data inicial e final
-recebidos no formato dd/mm/aaaa. Não deve usar plugins como moment ou date-fns.
+recebidos no formato dd/mm/aaaa (string). Não deve usar plugins como moment ou date-fns.
 
 ```javascript
 function calcularDiferenca(dataInicio, dataFinal) {
 
 }
 
-calcularDiferenca(10/05/2021, 15/05/2021) // Esperado 5
+calcularDiferenca("10/05/2021", "15/05/2021") // Esperado 5
 ```
 
 ## React :airplane:
