@@ -56,7 +56,7 @@ function calcularDiferenca(dataInicio, dataFinal) {
 calcularDiferenca(10/05/2021, 15/05/2021) // Esperado 5
 ```
 
-## React
+## React :airplane::airplane::airplane:
 
 **5. Atualizando dados na tela**
 
@@ -84,4 +84,4 @@ Replique o gerenciador de tarefas a seguir:
 - Procure manter o visual o mais parecido possível;
 - Procure tornar o app o mais funcional possível.
 
-## React Native :rocket: :rocket: :rocket:
+## React Native :rocket::rocket::rocket:
