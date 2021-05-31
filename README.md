@@ -66,7 +66,7 @@ calcularDiferenca("10/05/2021", "15/05/2021") // Esperado 5
 
 **5. Atualizando dados na tela**
 
-Crie um formulário simples com campos para nome e idade. Informe o valor dos componentes na tela, tornando os campos do formulários reativos. Preferencialmente, use Reack Hooks.
+Crie um formulário simples com campos para nome e idade. Informe o valor dos componentes na tela, tornando os campos do formulários reativos. Preferencialmente, use React Hooks.
 
 Exemplo:
 
