@@ -73,3 +73,10 @@ Crie um formulário de pesquisa que consuma a API aberta do GitHub. A pesquisa d
 Exemplo:
 
 ![Peek 31-05-2021 11-18](https://user-images.githubusercontent.com/83364092/120206824-0ab09580-c202-11eb-938e-895fb7aa8362.gif)
+
+**7. Todo app**
+
+Exemplo:
+
+![Captura de tela de 2021-05-31 11-30-49](https://user-images.githubusercontent.com/83364092/120208313-b8707400-c203-11eb-8b13-cfffefda53bf.png)
+
