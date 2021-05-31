@@ -2,7 +2,8 @@
 
 ## Teste
 
-1. Quantas vezes o caractere ocorre?
+**1. Quantas vezes o caractere ocorre?**
+
 Complete a função para que ela retorne o número de vezes que o caractere ocorre em determinada frase.
 
 ```javascript
