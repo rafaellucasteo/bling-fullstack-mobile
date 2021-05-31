@@ -28,3 +28,17 @@ mesclarArrays([1, 2, 3], [3, 4, 5]) // [ 1, 2, 3, 4, 5 ]
 mesclarArrays([-10, 22, 333, 42], [-11, 5, 22, 41, 42]) // [ -11, -10, 5, 22, 41,  42, 333]
 ```
 
+
+**3. Conserte o caos entre estas strings**
+
+As strings de exemplo estão misturadas. Complete a função para que ela retorne as strings organizadas.
+
+```javascript
+function organizar() {
+	return
+}
+
+organizar('java', 'tpi%rcs') // Javascript
+organizar('c%ountry', 'edis') // Countryside
+organizar('down', 'nw%ot') // Downtown
+```
