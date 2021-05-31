@@ -86,9 +86,12 @@ Replique o gerenciador de tarefas a seguir:
 
 ![Captura de tela de 2021-05-31 11-30-49](https://user-images.githubusercontent.com/83364092/120208313-b8707400-c203-11eb-8b13-cfffefda53bf.png)
 
-- Você pode usar o Bootstrap se preferir;
-- Procure manter o visual o mais parecido possível;
-- Procure tornar o app o mais funcional possível.
+Você pode usar o Bootstrap se preferir.
+
+Os itens a seguir são opcionais que podem serdiferenciais no seu teste:
+- Adicionar e remover tarefas funcional;
+- Realizar um login funcional;
+- Procurar manter o visual o mais parecido possível.
 
 ## React Native (diferencial) :rocket::rocket::rocket:
 
