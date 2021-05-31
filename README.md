@@ -84,4 +84,4 @@ Replique o gerenciador de tarefas a seguir:
 - Procure manter o visual o mais parecido possível;
 - Procure tornar o app o mais funcional possível.
 
-## React Native (:rocket:)
+## React Native :rocket: :rocket: :rocket:
