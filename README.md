@@ -76,7 +76,8 @@ Exemplo:
 
 **7. Todo app**
 
-Exemplo:
+Replique a interface a seguir:
 
 ![Captura de tela de 2021-05-31 11-30-49](https://user-images.githubusercontent.com/83364092/120208313-b8707400-c203-11eb-8b13-cfffefda53bf.png)
+Você pode usar o Bootstrap se preferir.
 
