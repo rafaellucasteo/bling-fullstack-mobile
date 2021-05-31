@@ -1,6 +1,6 @@
 # Desenvolvedor Fullstack com foco em mobile
 
-O teste tem como objetivo obter uma base do seu conhecimento em algumas linguagens específicas. Não existe apenas uma solução para as questões, portanto aplique suas próprias ideias e soluções. Você poderá consultar a internet como em qualquer ambiente real de desenvolvimento, mas **não use Ctrl+C e Ctrl+V**, pois questionaremos a solução das questões.
+O teste tem como objetivo obter uma base do seu conhecimento em algumas linguagens específicas. Não existe apenas uma solução para as questões, portanto aplique suas próprias ideias e soluções. Você poderá consultar a internet como em qualquer ambiente real de desenvolvimento, mas **não use Ctrl+C e Ctrl+V**, pois questionaremos as soluções do teste.
 
 Você poderá entregar o teste em uma das seguintes formas:
 - Arquivo compactado;
