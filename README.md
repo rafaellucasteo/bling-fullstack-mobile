@@ -26,7 +26,7 @@ buscarVezesLetra('e', 'Quantas vezes essa letra ocorre nesta frase?') // Esperad
 Complete a função para que ela aceite 2 arrays de números e retorne 1 mesclado, filtrando itens duplicados.
 
 ```javascript
-function mesclarArrays() {
+function mesclarArrays(arr1, arr2) {
 	return
 }
 
@@ -40,7 +40,7 @@ mesclarArrays([-10, 22, 333, 42], [-11, 5, 22, 41, 42]) // [ -11, -10, 5, 22, 41
 As strings de exemplo estão misturadas. Complete a função para que ela retorne as strings organizadas.
 
 ```javascript
-function organizar() {
+function organizar(str1, str2) {
 	return
 }
 
