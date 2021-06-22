@@ -4,7 +4,8 @@ O teste tem como objetivo obter uma base do seu conhecimento em algumas linguage
 
 Você poderá entregar o teste em uma das seguintes formas:
 - Arquivo compactado;
-- Link para o GitHub com as soluções.
+- Link para o GitHub com as soluções;
+- Qualquer forma online com possibilidade de visualização e replicação do código por parte do avaliador.
 
 ## Javascript :blue_car:
 
