@@ -7,6 +7,8 @@ Você poderá entregar o teste em uma das seguintes formas:
 - Link para o GitHub com as soluções;
 - Qualquer forma online com possibilidade de visualização e replicação do código por parte do avaliador.
 
+Você terá até **7 dias** para entregar o teste.
+
 ## Javascript :blue_car:
 
 **1. Quantas vezes o caractere ocorre?**
