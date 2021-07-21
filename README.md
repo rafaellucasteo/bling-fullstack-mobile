@@ -7,7 +7,10 @@ Você poderá entregar o teste em uma das seguintes formas:
 - Link para o GitHub com as soluções;
 - Qualquer forma online com possibilidade de visualização e replicação do código por parte do avaliador.
 
-Você terá até **7 dias** para entregar o teste.
+### Importante:
+- Você terá até **7 dias** para entregar o teste;
+- Envie o teste no formato zip ou link para acesso ao repositório (GitHub, GitLab, etc) respondendo o e-mail que lhe enviamos.
+
 
 ## Javascript :blue_car:
 
